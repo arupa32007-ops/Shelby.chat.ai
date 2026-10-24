@@ -2,7 +2,7 @@
 
 ### My Third GitHub Project 🚀
 
-Welcome to **Shelby.chat.ai**, my third Git project! This project represents another step in my journey of learning programming, web development, and artificial intelligence.
+Welcome to *Shelby.chat.ai*, my third Git project! This project represents another step in my journey of learning programming, web development, and artificial intelligence.
 
 ## 📌 About the Project
 
